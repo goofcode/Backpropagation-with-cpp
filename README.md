@@ -1,3 +1,3 @@
-~~ÀÌÀüÇÁ·ÎÁ§Æ®Á¤¸®~~
+~~ì´ì „í”„ë¡œì íŠ¸ì •ë¦¬~~
 
 cpp implementation of back propagation algorithm
